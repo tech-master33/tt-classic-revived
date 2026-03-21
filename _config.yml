@@ -1,0 +1,11 @@
+# Jekyll Configuration
+
+# Site settings
+url: "https://tech-master33.github.io"
+title: "Angels Clan"
+
+# Build settings
+theme: minima
+
+# Permalinks settings
+permalink: pretty
